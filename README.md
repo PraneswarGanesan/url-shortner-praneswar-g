@@ -8,8 +8,7 @@ This project is ideal for learning backend development principles, RESTful API d
 ## Key Features  
 - **Short URL Generation**: Converts long, cumbersome URLs into short, user-friendly links.  
 - **Redirection**: Automatically redirects users from a short URL to the original long URL.  
-- **Custom Short URLs** *(Optional)*: Allow users to define custom aliases for short URLs.  
-- **Analytics** *(Optional)*: Track the number of clicks and other usage statistics for each short URL.  
+- **Analytics**: Track the number of clicks and other usage statistics for each short URL.  
 - **Database Integration**: Securely stores URLs and mappings using MongoDB or MySQL.  
 
 ## Technologies Used  
