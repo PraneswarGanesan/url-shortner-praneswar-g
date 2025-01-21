@@ -14,7 +14,7 @@ This project is ideal for learning backend development principles, RESTful API d
 ## Technologies Used  
 - **Language:** Java  
 - **Framework:** Spring Boot  
-- **Database:** MongoDB / MySQL  
+- **Database:**  MySQL  
 - **Tools:** Maven, REST APIs, Postman (for testing)  
 
 ## API Endpoints  
